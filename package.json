@@ -1,7 +1,7 @@
 {
   "name": "ansi-text",
   "version": "1.0.0",
-  "description": "A generator for ANSI text styles",
+  "description": "A generator for ANSI text styles with a markup syntax",
   "main": "lib/ANSI.js",
   "types": "lib/ANSI.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wendyn-projects/ANSI-Styles.git"
+    "url": "git+https://github.com/wendyn-projects/ANSI-Markup-JS.git"
   },
   "keywords": [
     "ansi",
@@ -21,9 +21,9 @@
   "author": "Vaclav [WENDYN] Nemec",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wendyn-projects/ANSI-Styles/issues"
+    "url": "https://github.com/wendyn-projects/ANSI-Markup-JS/issues"
   },
-  "homepage": "https://github.com/wendyn-projects/ANSI-Styles#readme",
+  "homepage": "https://github.com/wendyn-projects/ANSI-Markup-JS#readme",
   "devDependencies": {
     "typescript": "^4.3.2"
   }
