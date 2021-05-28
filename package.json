@@ -1,0 +1,26 @@
+{
+  "name": "ansi-js",
+  "version": "1.0.0",
+  "description": "A generator for ANSI text effects",
+  "main": "lib/ANSI.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendyn-projects/ANSI-JS.git"
+  },
+  "keywords": [
+    "ansi",
+    "colors"
+  ],
+  "author": "Vaclav [WENDYN] Nemec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wendyn-projects/ANSI-JS/issues"
+  },
+  "homepage": "https://github.com/wendyn-projects/ANSI-JS#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
