@@ -14,9 +14,9 @@
   },
   "keywords": [
     "ansi",
-    "colors",
     "markup",
-    "styles"
+    "styles",
+    "colors"
   ],
   "author": "Vaclav [WENDYN] Nemec",
   "license": "MIT",
