@@ -1,4 +1,4 @@
-#ANSI Markup
+# ANSI Markup
 ## Instalation
 ```bash
 npm install ansi-text
