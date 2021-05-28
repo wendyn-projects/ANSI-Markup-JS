@@ -1,5 +1,5 @@
 {
-  "name": "ansi-styles",
+  "name": "ansi-text",
   "version": "1.0.0",
   "description": "A generator for ANSI text styles",
   "main": "lib/ANSI.js",
