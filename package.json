@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A generator for ANSI text effects",
   "main": "lib/ANSI.js",
+  "types": "lib/ANSI.d.ts",
   "scripts": {
     "build": "tsc"
   },
