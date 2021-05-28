@@ -85,7 +85,7 @@ function createANSI(
         return style;
 }
 
-export default function(text: string): string {
+export function ANSI(text: string): string {
 
     const TOKENIZER = /(?:<)(\/?)([^:>]+)(((?::)[^:>]+)*)(?:>)/gm;
 
