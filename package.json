@@ -1,6 +1,6 @@
 {
   "name": "ansi-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A generator for ANSI text styles with a markup syntax",
   "main": "lib/ANSI.js",
   "types": "lib/ANSI.d.ts",
